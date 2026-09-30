@@ -1,4 +1,3 @@
-# dinamosolarMATLAB
 MODELO AXISIMETRICO DE DINAMO SOLAR - MATLAB
 ============================================
 
